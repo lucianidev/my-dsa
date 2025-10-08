@@ -1,6 +1,9 @@
 #include<stdio.h>
 #include<stdlib.h>
+/*
+scritta in 5 minuti devo ancora capire se va
 
+*/
 struct Node {
     int value;
     struct Node* next;
